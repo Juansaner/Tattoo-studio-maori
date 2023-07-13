@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: 'Scrapyard';
+  src: url('../src/assets/fonts/ScrapyardScript_PERSONAL_USE_ONLY.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
